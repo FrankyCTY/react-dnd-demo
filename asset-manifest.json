@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dnd/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dnd/static/js/main.87554261.chunk.js",
+    "main.js.map": "/dnd/static/js/main.87554261.chunk.js.map",
+    "runtime-main.js": "/dnd/static/js/runtime-main.09564f49.js",
+    "runtime-main.js.map": "/dnd/static/js/runtime-main.09564f49.js.map",
+    "static/js/2.a38f16d1.chunk.js": "/dnd/static/js/2.a38f16d1.chunk.js",
+    "static/js/2.a38f16d1.chunk.js.map": "/dnd/static/js/2.a38f16d1.chunk.js.map",
+    "static/js/3.ce3b28a4.chunk.js": "/dnd/static/js/3.ce3b28a4.chunk.js",
+    "static/js/3.ce3b28a4.chunk.js.map": "/dnd/static/js/3.ce3b28a4.chunk.js.map",
+    "index.html": "/dnd/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dnd/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a38f16d1.chunk.js.LICENSE.txt": "/dnd/static/js/2.a38f16d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09564f49.js",
+    "static/js/2.a38f16d1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.87554261.chunk.js"
+  ]
+}
